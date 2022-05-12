@@ -1,11 +1,10 @@
 
 
+
 const Body = () => {
 return(
-  <div>emily is a boss bitch
-</div>
- 
-    )
-}
+<div className="body"> Tays and Ems App BODY </div>
+
+)}
 
 export default Body
